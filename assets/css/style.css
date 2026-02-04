@@ -1,0 +1,11 @@
+/* Ajustes mínimos sobre Bootstrap */
+
+.profile-photo {
+    max-width: 210px;
+    height: auto;
+}
+
+/* Un poco de legibilidad */
+body {
+    line-height: 1.6;
+}
